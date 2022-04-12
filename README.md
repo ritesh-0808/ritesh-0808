@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flask with python**
 
-- 📫 How to reach me **dhakkadchora0806@gmail.com**
+- 📫 How to reach me **riteshkumarchaurasia08@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/asus/Desktop/Ritesh_kumar_chaurasia.pdf](file:///C:/Users/asus/Desktop/Ritesh_kumar_chaurasia.pdf)
 
